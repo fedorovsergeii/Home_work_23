@@ -63,7 +63,6 @@ apartment3.addOwner(humanSara);
 const myHouse = new House(2);
 myHouse.addApartment(apartment1);
 myHouse.addApartment(apartment2);
-
 myHouse.addApartment('apartment1');
 myHouse.addApartment(apartment3);
 console.log(myHouse.apartaments);

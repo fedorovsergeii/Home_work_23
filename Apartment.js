@@ -12,8 +12,7 @@ class Apartment {
             console.log('You can only add instances of a class Human');
         }
 
-}
-
+    }
 }
 
 
